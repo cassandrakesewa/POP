@@ -1,1 +1,2 @@
 This is a test file2.txt
+This is a test in the next file2
